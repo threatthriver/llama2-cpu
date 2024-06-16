@@ -1,2 +1,2 @@
-ctransformers==0.1.0
-streamlit==1.10.0
+ctransformers
+streamlit
